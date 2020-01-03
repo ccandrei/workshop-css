@@ -1,0 +1,41 @@
+body{
+    background-color: #d5ff80;
+    font-family: Arial, Helvetica;
+    text-align: center;
+}
+
+h1{
+    color: #C03000;
+}
+
+h2{
+    color: #4BB5C1;
+}
+
+ul li{
+    
+    
+    list-style-type: none;
+    border: solid #660000 ;
+    padding: 5px;
+    background-color: #C03000;
+    display: inline;
+}
+
+li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: none;
+    color: #0000FF;
+    font-weight: bold;
+}
+
+li:hover{
+    background-color: #009900 ;
+}
+li:visited{
+    background-color: #009900 ;
+}
